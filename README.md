@@ -1,6 +1,8 @@
-# Welcome!
+# Welcome! 🙋🏻‍♂️
 
-I'm currently a software engineering student at 42 São Paulo.
+👾 I'm currently a software engineering student at <a href="[ur](https://www.42sp.org.br/)l">42 São Paulo</a> and a computer engineering student at <a href="[url](https://univesp.br/)">Univesp</a>. 🖥️
+
+📧 Feel free to get in touch whenever you need! You can mail me 🦾
 
 
 ## École 42 projects
