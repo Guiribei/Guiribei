@@ -9,6 +9,7 @@ printf("Welcome"); 🙋🏻‍♂️
 
 
 Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.com
+#
 
 ### École 42 projects
 
