@@ -2,7 +2,9 @@
 
 👾 I'm currently a software engineering student at [42 São Paulo](https://www.42sp.org.br/) and a computer engineering student at [Univesp](https://univesp.br/). 🖥️
 
-📧 Feel free to get in touch whenever you need! You can mail me 🦾
+🔭 The field I like most in this ones-and-zeros' world is data. Right now I'm doing the Santander Coders' learning path with [Let's Code](https://letscode.com.br/) 🔬
+
+📧 Feel free to get in touch whenever you need! 🦾
 
 
 ## École 42 projects
