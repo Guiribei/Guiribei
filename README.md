@@ -1,13 +1,16 @@
-# Welcome! 🙋🏻‍♂️
+## Hey!
 
-👾 I'm currently a software engineering student at [42 São Paulo](https://www.42sp.org.br/) and a computer engineering student at [Univesp](https://univesp.br/). 🖥️
+```C
+printf("Welcome"); 🙋🏻‍♂️
+``` 
+- 👾 I'm Guilherme 
+- 🖥️ I'm currently a software engineering student at [42 São Paulo](https://www.42sp.org.br/) and a computer engineering student at [Univesp](https://univesp.br/)
+- 🔭 The field I like most in this ones-and-zeros' world is data. Right now I'm doing the Santander Coders' learning path with [Ada](https://letscode.com.br/)
 
-🔭 The field I like most in this ones-and-zeros' world is data. Right now I'm doing the Santander Coders' learning path with [Let's Code](https://letscode.com.br/) 🔬
 
-📧 Feel free to get in touch whenever you need! 🦾
+Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.com
 
-
-## École 42 projects
+### École 42 projects
 
 <div align="center">
 
