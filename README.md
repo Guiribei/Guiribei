@@ -22,6 +22,6 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 [![fract-ol](https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png)](https://github.com/Guiribei/fractals-everywhere)
 [![minitalk](https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png)](https://github.com/Guiribei/a-plumber-myself)
 [![push_swap](https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png)](https://github.com/Guiribei/time-to-sort)
-[![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishelln.png)](https://github.com/Guiribei/minishell)
+[![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishelln.png)](https://github.com/Guiribei/my_shell)
 
 </div>
