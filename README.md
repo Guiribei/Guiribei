@@ -24,6 +24,6 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 [![push_swap](https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png)](https://github.com/Guiribei/time-to-sort)
 [![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png)](https://github.com/Guiribei/dining-philosophers-problem)
-[![net_practice](https://github.com/guiribei/guiribei/blob/main/42_badges/net_practice.png)](https://github.com/Guiribei/ipv4_adressing)
+[![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticem.png)](https://github.com/Guiribei/ipv4_adressing)
 
 </div>
