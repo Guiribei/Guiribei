@@ -11,6 +11,16 @@ printf("Welcome"); 🙋🏻‍♂️
 Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.com
 #
 
+### 🚀 Skills:
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75"><br><sub>VS Code</sub>
+:---: | :---: | :---: | :---: | :---: |
+</div>
+
+#
+
 ### École 42 projects
 
 <div align="center">
@@ -25,5 +35,5 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 [![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png)](https://github.com/Guiribei/dining-philosophers-problem)
 [![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png)](https://github.com/Guiribei/ipv4_adressing)
-
+:
 </div>
