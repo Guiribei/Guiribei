@@ -3,7 +3,7 @@
 ```C
 printf("Welcome");
  🙋🏻‍♂️
-check_out_my("pinned_projects");
+check_out("my_pinned_projects");
 ``` 
 - 👾 I'm Guilherme
 - 🖥️ I'm currently a computer engineering student at [Univesp](https://univesp.br/) and a cadet at [42 São Paulo](https://www.42sp.org.br/)
