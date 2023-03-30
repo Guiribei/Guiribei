@@ -3,7 +3,7 @@
 ```C
 printf("Welcome"); 🙋🏻‍♂️
 ``` 
-- 👾 I'm Guilherme 
+- 👾 I'm Guilherme, check out my pinned projects!
 - 🖥️ I'm currently a computer engineering student at [Univesp](https://univesp.br/) and a cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🔭 The field I like most in this ones-and-zeros' world is data. Right now, I'm taking the Santander Coders' learning path with [Ada](https://letscode.com.br/)
 
