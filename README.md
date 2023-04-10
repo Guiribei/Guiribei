@@ -23,7 +23,7 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 
 #
 
-### 📖 🗄️ 🔨 📓 École 42 projects
+### 📖 🔨 École 42 projects
 
 <div align="center">
 
