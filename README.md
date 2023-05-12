@@ -17,8 +17,8 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75"><br><sub>VS Code</sub> | <img src="https://avatars.githubusercontent.com/u/4430336?s=280&v=4" width="75" height="75"><br><sub>Oracle Cloud</sub> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="75" height="75"><br><sub>Terraform</sub>
-:---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75"><br><sub>VS Code</sub>
+:---: | :---: | :---: | :---: | :---: |
 </div>
 
 #
