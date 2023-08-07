@@ -7,7 +7,7 @@ check_out("pinned_projects");
 ``` 
 - 👾 I'm Guilherme
 - 🖥️ I'm currently a computer engineering student at [Univesp](https://univesp.br/) and a cadet at [42 São Paulo](https://www.42sp.org.br/)
-- 🔭 Right now, I'm an intern at [Think IT](https://www.think.br.com/)
+- 🔭 Right now, I'm working at some Django projects
 
 
 Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.com
