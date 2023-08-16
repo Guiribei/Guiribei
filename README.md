@@ -45,40 +45,40 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 
 <div align="center" >
   <a href="https://github.com/Guiribei/kind-of-libc" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png" alt="Libft" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png" alt="Libft" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/backslash-n" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png" alt="Get Next Line" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png" alt="Get Next Line" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/printf-else" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png" alt="Printf" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png" alt="Printf" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/primitive-server" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png" alt="Born2BeRoot" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png" alt="Born2BeRoot" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/fractals-everywhere" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png" alt="So Long" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png" alt="Fractol" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/a-plumber-myself" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="110" height="110">
   </a>
- <br>
+  <br>
   <a href="https://github.com/Guiribei/time-to-sort" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Push_Swap" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/my_shell" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Minishell" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/dining-philosophers-problem" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png" alt="Philosophers" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/ipv4_adressing" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png" alt="Net_Practice" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/minirt" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png" alt="MiniRT" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/cpp" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="CPP" width="110" height="110">
   </a>
 </div>
