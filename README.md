@@ -37,7 +37,7 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 [![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png)](https://github.com/Guiribei/dining-philosophers-problem)
 [![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png)](https://github.com/Guiribei/ipv4_adressing)
-[![minirt](https://github.com/guiribei/guiribei/blob/main/42_badges/minirte.png)](https://github.com/Guiribei/ipv4_adressing)
-[![cpp](https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png)](https://github.com/Guiribei/ipv4_adressing)
+[![minirt](https://github.com/guiribei/guiribei/blob/main/42_badges/minirte.png)](https://github.com/Guiribei/minirt)
+[![cpp](https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png)](https://github.com/Guiribei/cpp)
 
 </div>
