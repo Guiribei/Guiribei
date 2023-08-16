@@ -24,7 +24,7 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 #
 
 ### 🔨 École 42 projects:
-
+<!--
 <div align="center">
 
 [![Libft](https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png)](https://github.com/Guiribei/kind-of-libc)
@@ -40,4 +40,44 @@ Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.co
 [![minirt](https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png)](https://github.com/Guiribei/minirt)
 [![cpp](https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png)](https://github.com/Guiribei/cpp)
 
+</div>
+-->
+
+<div align="center" >
+  <a href="https://github.com/Guiribei/kind-of-libc" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png" alt="Libft" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/backslash-n" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png" alt="Get Next Line" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/printf-else" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png" alt="Printf" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/primitive-server" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png" alt="Born2BeRoot" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/fractals-everywhere" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png" alt="So Long" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/a-plumber-myself" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/time-to-sort" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/my_shell" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/dining-philosophers-problem" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/ipv4_adressing" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/minirt" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png" alt="Pipex" width="80" height="80">
+  </a>
+  <a href="https://github.com/Guiribei/cpp" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="Pipex" width="80" height="80">
+  </a>
 </div>
