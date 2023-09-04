@@ -10,7 +10,7 @@ check_out("pinned_projects");
 - 🔭 Right now, I'm working at some Django projects
 
 
-Feel free to get in touch whenever you need! 📧 guilherme_f_ribeiro@hotmail.com
+Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 #
 
 ### 🚀 Skills:
