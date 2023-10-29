@@ -62,10 +62,10 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
   <a href="https://github.com/Guiribei/a-plumber-myself" target="_blank" style="text-decoration: none">
     <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="110" height="110">
   </a>
-  <br>
   <a href="https://github.com/Guiribei/time-to-sort" target="_blank" style="text-decoration: none">
     <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Push_Swap" width="110" height="110">
   </a>
+ <br>
   <a href="https://github.com/Guiribei/my_shell" target="_blank" style="text-decoration: none">
     <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Minishell" width="110" height="110">
   </a>
@@ -80,5 +80,11 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
   </a>
   <a href="https://github.com/Guiribei/cpp" target="_blank" style="text-decoration: none">
     <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="CPP" width="110" height="110">
+  </a>
+ <a href="https://github.com/Guiribei/Inception" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png" alt="CPP" width="110" height="110">
+  </a>
+ <a href="https://github.com/Guiribei/ft_irc" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircm.png" alt="CPP" width="110" height="110">
   </a>
 </div>
