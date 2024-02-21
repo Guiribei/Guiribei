@@ -12,7 +12,7 @@ check_out("pinned_projects");
 
 Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 #
-
+<!--
 ### 🚀 Skills:
 
 <div align="center">
@@ -20,6 +20,8 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="75" height="75"><br><sub>C++</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75"><br><sub>Docker</sub>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> 
 :---: | :---: | :---: | :---: | :---: | :---: |
 </div>
+-->
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎<img src="https://skillicons.dev/icons?i=cpp,django,docker,git,java,kafka,kubernetes,linux,postgres,python,spring,html,css,js,ts&theme=dark">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #
 
