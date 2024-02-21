@@ -12,8 +12,9 @@ check_out("pinned_projects");
 
 Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 #
-<!--
 ### 🚀 Skills:
+<!--
+
 
 <div align="center">
 
