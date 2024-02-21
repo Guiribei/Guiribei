@@ -12,7 +12,7 @@ check_out("pinned_projects");
 
 Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 #
-### 🚀 Skills:
+### Skills:
 <!--
 
 
@@ -26,7 +26,7 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 
 #
 
-### 🔨 École 42 projects:
+### École 42 projects:
 <!--
 <div align="center">
 
