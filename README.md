@@ -27,67 +27,83 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 #
 
 ### École 42 projects:
-<!--
+<br>
+<details>
+
+<summary>Show badges</summary>
+
+
 <div align="center">
 
 [![Libft](https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png)](https://github.com/Guiribei/kind-of-libc)
 [![GNL](https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png)](https://github.com/Guiribei/backslash-n)
 [![ft_printf](https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png)](https://github.com/Guiribei/printf-else)
 [![B2B](https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png)](https://github.com/Guiribei/primitive-server)
-[![fract-ol](https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png)](https://github.com/Guiribei/fractals-everywhere)
+[![fract-ol](https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png)](https://github.com/Guiribei/fractals-everywhere) <br>
 [![pipex](https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png)](https://github.com/Guiribei/a-plumber-myself)
 [![push_swap](https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png)](https://github.com/Guiribei/time-to-sort)
 [![minishell](https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png)](https://github.com/Guiribei/my_shell)
 [![philosophers](https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png)](https://github.com/Guiribei/dining-philosophers-problem)
-[![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png)](https://github.com/Guiribei/ipv4_adressing)
+[![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png)](https://github.com/Guiribei/ipv4_adressing) <br>
 [![minirt](https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png)](https://github.com/Guiribei/minirt)
 [![cpp](https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png)](https://github.com/Guiribei/cpp)
+![inception](https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png)
+![ft_irc](https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircm.png)
+![ft_transcendence](https://github.com/guiribei/guiribei/blob/main/42_badges/ft_transcendencem.png)
 
 </div>
--->
 
+<!--
 <div align="center" >
   <a href="https://github.com/Guiribei/kind-of-libc" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png" alt="Libft" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/libftm.png" alt="Libft" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/backslash-n" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png" alt="Get Next Line" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/get_next_linem.png" alt="Get Next Line" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/printf-else" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png" alt="Printf" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_printfe.png" alt="Printf" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/primitive-server" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png" alt="Born2BeRoot" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/born2berootm.png" alt="Born2BeRoot" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/fractals-everywhere" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png" alt="Fractol" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/fract-olm.png" alt="Fractol" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/a-plumber-myself" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/pipexm.png" alt="Pipex" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/time-to-sort" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Push_Swap" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/push_swapm.png" alt="Push_Swap" width="110" height="110">
   </a>
  <br>
   <a href="https://github.com/Guiribei/my_shell" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Minishell" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minishellm.png" alt="Minishell" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/dining-philosophers-problem" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png" alt="Philosophers" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png" alt="Philosophers" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/ipv4_adressing" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png" alt="Net_Practice" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png" alt="Net_Practice" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/minirt" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png" alt="MiniRT" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png" alt="MiniRT" width="110" height="110">
   </a>
   <a href="https://github.com/Guiribei/cpp" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="CPP" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png" alt="CPP" width="110" height="110">
   </a>
  <a href="https://github.com/Guiribei/Inception" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png" alt="CPP" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png" alt="CPP" width="110" height="110">
   </a>
  <a href="https://github.com/Guiribei/ft_irc" target="_blank" style="text-decoration: none">
-    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircm.png" alt="CPP" width="90" height="90">
+    <img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircm.png" alt="CPP" width="110" height="110">
   </a>
 </div>
+-->
+</details>
+
+<br>
+
+> [!TIP]
+> 
+> If you want to reach me, add me on LinkedIn:
