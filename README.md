@@ -6,7 +6,7 @@ printf("Welcome");
 check_out("pinned_projects");
 ``` 
 - 👾 I'm Guilherme
-- 🖥️ I'm currently a computer engineering student at [Univesp](https://univesp.br/) and a cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 🖥️ Human Coder by [42 São Paulo](https://www.42sp.org.br/) and computer engineering student at [Univesp](https://univesp.br/).
 - 🔭 Right now, I'm working at some Django projects
 
 
