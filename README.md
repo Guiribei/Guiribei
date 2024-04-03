@@ -106,4 +106,4 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 
 > [!NOTE]
 > 
-> If you want to reach me, add me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/guiribei/)
+> If you want to reach me, add me on [LinkedIn](https://www.linkedin.com/in/guiribei/)
