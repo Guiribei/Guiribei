@@ -22,10 +22,10 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 :---: | :---: | :---: | :---: | :---: | :---: |
 </div>
 -->
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎<img src="https://skillicons.dev/icons?i=cpp,django,docker,git,java,kafka,kubernetes,linux,postgres,python,spring,html,css,js,ts&theme=dark">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎<img src="https://skillicons.dev/icons?i=aws,bash,cpp,django,docker,git,html,java,js,kafka,kubernetes,linux,postgres,python,spring,&theme=dark">‎
 
+##
 ### École 42 projects:
 <br>
 <details>
@@ -107,3 +107,5 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 > [!NOTE]
 > 
 > If you want to reach me, add me on [LinkedIn](https://www.linkedin.com/in/guiribei/)
+
+<hr>
