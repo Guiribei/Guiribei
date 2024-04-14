@@ -46,10 +46,9 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 [![netpractice](https://github.com/guiribei/guiribei/blob/main/42_badges/netpracticee.png)](https://github.com/Guiribei/ipv4_adressing) <br>
 [![minirt](https://github.com/guiribei/guiribei/blob/main/42_badges/minirtm.png)](https://github.com/Guiribei/minirt)
 [![cpp](https://github.com/guiribei/guiribei/blob/main/42_badges/cppe.png)](https://github.com/Guiribei/cpp)
-![inception](https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png)
+[![inception](https://github.com/guiribei/guiribei/blob/main/42_badges/inceptione.png)](https://github.com/Guiribei/Inception)
 [![ft_irc](https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircm.png)](https://github.com/Guiribei/ft_irc/blob/main/README.md)
 [![ft_transcendence](https://github.com/guiribei/guiribei/blob/main/42_badges/ft_transcendencem.png)](https://github.com/Guiribei/ft_transcendence)
-[![philosophers](https://github.com/guiribei/guiribei/blob/main/42_badges/philosopherse.png)](https://github.com/Guiribei/dining-philosophers-problem)
 </div>
 
 <!--
