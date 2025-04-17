@@ -21,7 +21,7 @@ Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
 :---: | :---: | :---: | :---: | :---: | :---: |
 </div>
 -->
-<div align="center"><img src="https://skillicons.dev/icons?i=aws,c,django,docker,maven,git,java,kafka,terraform,go,linux,postgres,python,spring,&theme=dark"></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=aws,bash,django,docker,maven,git,java,kafka,terraform,go,linux,postgres,python,spring,&theme=dark"></div>
 
 #
 ### École 42 projects:
