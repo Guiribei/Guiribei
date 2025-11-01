@@ -6,7 +6,7 @@ printf("Welcome");
 check_out("pinned_projects");
 ``` 
 - 👾 I'm Guilherme
-- 🔭 Right now, I'm working at some Go projects
+- 🔭 Right now, working on some Go projects
 
 
 Feel free to get in touch whenever you need! 📧 guiribei@hotmail.com
